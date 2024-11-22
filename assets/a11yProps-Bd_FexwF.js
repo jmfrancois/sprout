@@ -1,0 +1,1 @@
+function a({percent:e}){return(typeof e=="number"?"determined":"undetermined")==="determined"?{role:"progressbar","aria-valuenow":e,"aria-valuemin":0,"aria-valuemax":100}:{role:"status","aria-busy":!0}}export{a as g};

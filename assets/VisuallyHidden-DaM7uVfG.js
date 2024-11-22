@@ -1,0 +1,1 @@
+import{j as s}from"./jsx-runtime-CfatFE5O.js";const e="_hidden_1a8t8_4",i={hidden:e},n=d=>s.jsx("span",{...d,className:i.hidden,"aria-hidden":!0});n.__docgenInfo={description:"",methods:[],displayName:"VisuallyHidden"};export{n as V};
